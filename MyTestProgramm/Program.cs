@@ -11,6 +11,8 @@ namespace MyTestProgramm
         static void Main(string[] args)
         {
             Console.WriteLine("MyFirstFeature");
+
+            Console.WriteLine("MySecondFeature");
         }
     }
 }
